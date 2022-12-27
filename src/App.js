@@ -79,7 +79,6 @@ const App = () => {
           {moves}
         </ol>
       </div>
-      {/* <Test /> */}
     </div>
   )
 }
